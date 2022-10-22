@@ -54,6 +54,7 @@ export const FormikAbstract = () => {
                                     />
 
                                     <MyTextInput
+                                        type="email"
                                         label='Email'
                                         name='email'
                                         placeholder='Email'
